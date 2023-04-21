@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(25, 208, 225);
+}
+
+.set{
+    padding: 80px;
+}
+.drum{
+    padding: 70px 70px;
+    margin: 12px;
+    background-color: bisque;
+    border-radius: 20px;
+}
+
+.A{
+    background-image: url(images/crash.png);
+}
+
+.B{
+    background-image: url(images/kick.png);
+}
+
+.C{
+    background-image: url(images/snare.png);
+}
+
+.D{
+    background-image: url(images/tom1.png);
+}
+
+.E{
+    background-image: url(images/tom2.png);
+}
+
+.F{
+    background-image: url(images/tom3.png);
+}
+
+.G{
+    background-image: url(images/tom4.png);
+}
